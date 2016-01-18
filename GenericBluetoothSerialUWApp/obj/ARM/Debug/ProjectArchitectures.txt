@@ -1,0 +1,1 @@
+C:\Users\shiji\Desktop\Windows IoT\PM25\GenericBluetoothSerialUWApp\GenericBluetoothSerialUWApp.csproj;arm
